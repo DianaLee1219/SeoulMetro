@@ -11,6 +11,6 @@ So, for your convenience, I analyzed which subway lines, sections, and times you
 
 Eventually, I’d love to build an app for this service — but for now, I’m starting with data analysis!
 
-[Reference](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
+[data.seoul.go.kr](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
 
 [DataBase](https://docs.google.com/spreadsheets/d/1h5yt1fqRDCNFXcBlATY0VcomdHOUzlbhj3cyOFucz54/edit?gid=0#gid=0)
