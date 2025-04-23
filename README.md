@@ -10,3 +10,5 @@ Do you really want to experience the K-hellmetro?
 So, for your convenience, I analyzed which subway lines, sections, and times you should avoid.
 
 Eventually, I’d love to build an app for this service — but for now, I’m starting with data analysis!
+
+Reference: https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do
